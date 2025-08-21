@@ -32,7 +32,7 @@ Unlike random opponents, this AI analyzes your past moves using multiple strateg
 ### Setup
 ```bash
 # Clone the repository
-git clone https://github.com/sahanPrime/rock-paper-scissors-ai.git
+git clone https://github.com/sahanPrime/RockPaperScissors.git
 cd rock-paper-scissors-ai
 
 # Install dependencies
