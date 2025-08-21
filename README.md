@@ -29,15 +29,5 @@ Unlike random opponents, this AI analyzes your past moves using multiple strateg
 - Python 3.8 or higher  
 - `pygame`  
 
-### Setup
-```bash
-# Clone the repository
-git clone https://github.com/sahanPrime/RockPaperScissors.git
-cd rock-paper-scissors-ai
 
-# Install dependencies
-pip install pygame
-
-# Run the game
-python main.py
 
